@@ -2,3 +2,8 @@ h1 {
     color: cyan;
     background-color: chocolate;
 }
+
+
+span {
+    font-size: 2em;
+}
