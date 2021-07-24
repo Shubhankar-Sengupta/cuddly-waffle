@@ -8,3 +8,11 @@ function Alert() {
 Alert();
 
 
+const Name = function (nameArr) {
+    return nameArr.length;
+}
+
+let set = Name(["Shubho", "Ashit", "Gate"]);
+
+console.log(set);
+
